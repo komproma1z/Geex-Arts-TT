@@ -1,0 +1,15 @@
+{
+    "name": "GeexArts",
+    "version": "1.0.0",
+    "description": "TT",
+    "engines": {
+        "node": "8.9.1"
+    },
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+        "express": "^4.15.2"
+    }
+}
